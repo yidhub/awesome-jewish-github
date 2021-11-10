@@ -1,5 +1,5 @@
 # YidHub
-> Jewish Projects on GitHub
+> [Jewish Projects on GitHub](https://github.com/yidhub) - "Everything Yiddish on GitHub"
 
 ## Projects
 
